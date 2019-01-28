@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Earthquakes Summary</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="magnitude">Magnitude</string>
+    <string name="place">place</string>
+    <string name="refresh">refresh</string>
+</resources>
